@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soohyeony
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Machine Learning & Deep Learning
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 - 📫 How to reach me soohyeonyu@gmail.com
 
